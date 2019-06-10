@@ -78,6 +78,6 @@ theme: landscape
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:git
-  repo:https://gitHub.com/canifindyou.gitHub.io.git
-  branch:master
+  type: git
+  repo: git@github.com:canifindyou/CanIFindYou.github.io.git
+  branch: master
